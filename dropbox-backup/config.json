@@ -1,6 +1,6 @@
 {
   "name": "Dropbox Backup",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "slug": "dropbox_backup",
   "description": "Upload snapshots to dropbox.",
   "url": "https://github.com/willyzha/hassio-dropbox-backup",
